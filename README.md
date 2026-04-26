@@ -1,4 +1,3 @@
-# Visual-Effect
 add 5 visual effects in gta samp
 
 - night vision
