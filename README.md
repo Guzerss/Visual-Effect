@@ -6,4 +6,4 @@ add 5 visual effects in gta samp mobile v2.00
 - video cam
 - darkness filter
 
-use: `/veff`
+use: `/veff` to open menu
