@@ -10,3 +10,4 @@ use: `/veff` to open menu
 
 ![alt text](https://github.com/Guzerss/Visual-Effect/blob/main/prev/Screenshot_20260426-085710.jpg?raw=true)
 ![alt text](https://github.com/Guzerss/Visual-Effect/blob/main/prev/Screenshot_20260426-085718.jpg?raw=true)
+![alt text](https://github.com/Guzerss/Visual-Effect/blob/main/prev/Screenshot_20260426-085727.jpg?raw=true)
