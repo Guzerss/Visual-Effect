@@ -1,4 +1,4 @@
-add 5 visual effects in gta samp
+add 5 visual effects in gta samp mobile v2.00
 
 - night vision
 - infrared vision
